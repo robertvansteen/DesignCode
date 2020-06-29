@@ -17,6 +17,7 @@
 		E17DA2D924A6A39B003F0305 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E17DA2D824A6A39B003F0305 /* Preview Assets.xcassets */; };
 		E17DA2DC24A6A39B003F0305 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E17DA2DA24A6A39B003F0305 /* LaunchScreen.storyboard */; };
 		E1B1A83A24AA71930043F521 /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B1A83924AA71930043F521 /* UpdateList.swift */; };
+		E1B1A83C24AA779B0043F521 /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B1A83B24AA779B0043F521 /* UpdateDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		E17DA2DB24A6A39B003F0305 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E17DA2DD24A6A39B003F0305 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E1B1A83924AA71930043F521 /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
+		E1B1A83B24AA779B0043F521 /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				E125600B24A93F4B007D2C9F /* Home.swift */,
 				E125600D24A9D1EF007D2C9F /* HomeView.swift */,
 				E1B1A83924AA71930043F521 /* UpdateList.swift */,
+				E1B1A83B24AA779B0043F521 /* UpdateDetail.swift */,
 				E17DA2D524A6A39B003F0305 /* Assets.xcassets */,
 				E17DA2DA24A6A39B003F0305 /* LaunchScreen.storyboard */,
 				E17DA2DD24A6A39B003F0305 /* Info.plist */,
@@ -161,6 +164,7 @@
 				E17DA2D024A6A39A003F0305 /* AppDelegate.swift in Sources */,
 				E1B1A83A24AA71930043F521 /* UpdateList.swift in Sources */,
 				E125600A24A93809007D2C9F /* MenuView.swift in Sources */,
+				E1B1A83C24AA779B0043F521 /* UpdateDetail.swift in Sources */,
 				E125600C24A93F4B007D2C9F /* Home.swift in Sources */,
 				E125600E24A9D1EF007D2C9F /* HomeView.swift in Sources */,
 				E17DA2D224A6A39A003F0305 /* SceneDelegate.swift in Sources */,
